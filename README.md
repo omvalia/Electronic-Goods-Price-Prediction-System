@@ -17,4 +17,5 @@ Project Demo
 ![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/059af846-9bd8-4531-aaf8-b35f9004b61c)
 ![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/3a820147-5d06-4b5b-8e6b-bb16f56ec0c4)
 ![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/29c93f9b-f8a3-4328-ae32-62db6e85b55b)
+![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/fb22ee0c-39d4-42ba-9c28-8bb333dc22e0)
 
