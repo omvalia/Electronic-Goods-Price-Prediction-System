@@ -11,3 +11,10 @@ The predictive accuracy results for these models are as follows:
 - Laptop Price Predictor achieved an accuracy of 85%.
 - Mobile Price Predictor attained an accuracy of 70%.
 - TV Price Predictor demonstrated an accuracy of 88%.
+
+Project Demo
+![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/3dc9d834-c76f-4f97-b356-3dd8e586f5fd)
+![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/059af846-9bd8-4531-aaf8-b35f9004b61c)
+![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/3a820147-5d06-4b5b-8e6b-bb16f56ec0c4)
+![image](https://github.com/omvalia/Price-Prediction-System/assets/68056992/29c93f9b-f8a3-4328-ae32-62db6e85b55b)
+
